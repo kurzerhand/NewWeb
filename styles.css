@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(21, 21, 160);
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.uno{
+    width: 90%;
+    height: 100px;
+    background-color: gray;
+    margin-top: 10px;
+}
+.dos{
+    width: 90%;
+    height: 100px;
+    background-color: gray;
+    margin-top: 10px;
+}
+.tres{
+    width: 90%;
+    height: 30px;
+    background-color: orange;
+    margin-top: 10px;
+}
+.cuatro{
+    width: 90%;
+    height: 100px;
+    background-color: gray;
+    margin-top: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
